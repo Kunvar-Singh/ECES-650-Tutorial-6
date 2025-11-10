@@ -1,0 +1,16 @@
+percent,reads_clade,reads_taxon,rank,ncbi_taxid,name
+0.27,48,0,G,9605,Homo
+0.24,42,0,G,561,Escherichia
+0.04,7,0,G,1912216,Cutibacterium
+0.02,4,4,G,469,Acinetobacter
+0.02,4,2,G,1269,Micrococcus
+0.02,3,0,G,1279,Staphylococcus
+0.02,3,0,G,187217,Tunavirus
+0.01,1,1,G,590,Salmonella
+0.01,1,1,G,122277,Pectobacterium
+0.01,2,2,G,953,Wolbachia
+0.01,1,1,G,80865,Delftia
+0.01,2,0,G,237,Flavobacterium
+0.01,1,0,G,816,Bacteroides
+0.01,2,0,G,33882,Microbacterium
+0.01,1,0,G,1301,Streptococcus

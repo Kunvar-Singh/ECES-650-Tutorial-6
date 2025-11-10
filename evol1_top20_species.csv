@@ -1,0 +1,12 @@
+percent,reads_clade,reads_taxon,rank,ncbi_taxid,name
+0.27,48,48,S,9606,Homo sapiens
+0.24,42,42,S,562,Escherichia coli
+0.04,7,6,S,1747,Cutibacterium acnes
+0.02,3,0,S,1921008,Tunavirus T1
+0.01,2,2,S,2895947,Flavobacterium cyclinae
+0.01,1,1,S,817,Bacteroides fragilis
+0.01,2,2,S,1270,Micrococcus luteus
+0.01,2,2,S,2603598,Microbacterium sp. CBA3102
+0.01,2,2,S,1292,Staphylococcus warneri
+0.01,1,1,S,1282,Staphylococcus epidermidis
+0.01,1,1,S,1308,Streptococcus thermophilus
